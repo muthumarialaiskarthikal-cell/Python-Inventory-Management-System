@@ -1,0 +1,3 @@
+
+# No external packages required
+# Uses Python built-in SQLite3 module
